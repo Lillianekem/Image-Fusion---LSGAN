@@ -1,0 +1,12 @@
+tensorflow 
+numpy 
+pandas 
+PIL
+urllib
+csv
+matplotlib
+math
+os
+time
+cv2 
+sklearn
